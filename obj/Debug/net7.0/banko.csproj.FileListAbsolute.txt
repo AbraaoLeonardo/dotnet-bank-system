@@ -1,0 +1,15 @@
+/home/abraao284/Desktop/projects/dotnet/banko/bin/Debug/net7.0/banko
+/home/abraao284/Desktop/projects/dotnet/banko/bin/Debug/net7.0/banko.deps.json
+/home/abraao284/Desktop/projects/dotnet/banko/bin/Debug/net7.0/banko.runtimeconfig.json
+/home/abraao284/Desktop/projects/dotnet/banko/bin/Debug/net7.0/banko.dll
+/home/abraao284/Desktop/projects/dotnet/banko/bin/Debug/net7.0/banko.pdb
+/home/abraao284/Desktop/projects/dotnet/banko/obj/Debug/net7.0/banko.csproj.AssemblyReference.cache
+/home/abraao284/Desktop/projects/dotnet/banko/obj/Debug/net7.0/banko.GeneratedMSBuildEditorConfig.editorconfig
+/home/abraao284/Desktop/projects/dotnet/banko/obj/Debug/net7.0/banko.AssemblyInfoInputs.cache
+/home/abraao284/Desktop/projects/dotnet/banko/obj/Debug/net7.0/banko.AssemblyInfo.cs
+/home/abraao284/Desktop/projects/dotnet/banko/obj/Debug/net7.0/banko.csproj.CoreCompileInputs.cache
+/home/abraao284/Desktop/projects/dotnet/banko/obj/Debug/net7.0/banko.dll
+/home/abraao284/Desktop/projects/dotnet/banko/obj/Debug/net7.0/refint/banko.dll
+/home/abraao284/Desktop/projects/dotnet/banko/obj/Debug/net7.0/banko.pdb
+/home/abraao284/Desktop/projects/dotnet/banko/obj/Debug/net7.0/banko.genruntimeconfig.cache
+/home/abraao284/Desktop/projects/dotnet/banko/obj/Debug/net7.0/ref/banko.dll
