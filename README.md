@@ -17,7 +17,7 @@ Now, access the folder in your terminal, and type dotnet run. :smile:
 
 # O que é esse projeto?
 
-Um simples programa de banco, onde conseguiremos fazer transferencia, saques e depositos.
+Um simples programa de banco, onde é possível fazer transferencia, saques e depositos.
 
 ## Como rodar em seu pc?
 
